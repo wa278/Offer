@@ -1,5 +1,5 @@
 /*
-ÊäÈëÒ»¸öÁ´±í£¬°´Á´±íÖµ´ÓÎ²µ½Í·µÄË³Ğò·µ»ØÒ»¸öArrayList¡£
+è¾“å…¥ä¸€ä¸ªé“¾è¡¨ï¼ŒæŒ‰é“¾è¡¨å€¼ä»å°¾åˆ°å¤´çš„é¡ºåºè¿”å›ä¸€ä¸ªArrayListã€‚
  */
 import java.util.ArrayList;
 import java.util.Stack;
